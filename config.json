@@ -1,5 +1,5 @@
 {
-  "token": "NzM3ODcyNDU0Njk2ODI4OTUw.XyDrRg.4Z_oAoBXmqdLWGwUKlvpgrEgzGQ",
+  "token": "insira o token do seu bot aqui",
   "prefix": "!",
   "endpoint": "https://pokeapi.co/api/v2/pokemon/",
   "maxPokemon": "890"
