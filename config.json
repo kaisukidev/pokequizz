@@ -1,0 +1,6 @@
+{
+  "token": "NzM3ODcyNDU0Njk2ODI4OTUw.XyDrRg.qdDzEcmq77eAIHaSoyznO8BUE6Q",
+  "prefix": "!",
+  "endpoint": "https://pokeapi.co/api/v2/pokemon/",
+  "maxPokemon": "890"
+}
